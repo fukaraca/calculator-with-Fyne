@@ -1,4 +1,4 @@
-# CALCULATOR
+# Calculator
 
 Basic calculator for learning Fyne and honing Go skills.
 
